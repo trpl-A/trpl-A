@@ -7,11 +7,11 @@ _scan the QR code_
 
 All website projects
 
-- goto <a href="http://trpl-a.github.io/Web_virtual_card" target="blank">my_porfolio</a> \n
-- goto <a href="https://trpl-a.github.io/Web_dork/" target="_blank">DORK</a>
-- goto <a href="https://trpl-a.github.io/Web_login_using_json/" target="_blank">login_page</a>
-- goto <a href="https://trpl-a.github.io/Web_generic_simple/" target="_blank">simple_multipage_website</a>
-- goto <a href="https://trpl-a.github.io/Web_generic_bootstrap_sass/" target="_blank">simple_multipage_website_bootstrap_sass</a>
+- goto <a href="http://trpl-a.github.io/Web_virtual_card" target="blank">my_porfolio</a>
+- goto <a href="https://trpl-a.github.io/Web_dork/">DORK</a>
+- goto <a href="https://trpl-a.github.io/Web_login_using_json/">login_page</a>
+- goto <a href="https://trpl-a.github.io/Web_generic_simple/">simple_multipage_website</a>
+- goto <a href="https://trpl-a.github.io/Web_generic_bootstrap_sass/">simple_multipage_website_bootstrap_sass</a>
 
 <!---
 trpl-A/trpl-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
