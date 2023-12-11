@@ -5,7 +5,7 @@
   
 _scan the QR code_
 
-goto https://trpl-a.github.io/Web_dork/
+goto <a href="https://trpl-a.github.io/Web_dork/" target="_blank">DORK</a>
 
 <!---
 trpl-A/trpl-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
