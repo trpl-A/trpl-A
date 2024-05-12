@@ -11,8 +11,8 @@ All website projects
 - goto <a href="https://trpl-a.github.io/Web_dork/" target="">DORK</a>
 - goto <a href="https://trpl-a.github.io/Web_using_apis/" target="">collection of free web APIs</a>
 
-`api`_.
-.. _api: https://trpl-a.github.io/Web_using_apis/
+<!-- [Chromium](https://www.chromium.org/Home) -->
+[Dork](https://trpl-a.github.io/Web_dork/)
 
 <!---
 trpl-A/trpl-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
