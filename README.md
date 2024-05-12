@@ -9,9 +9,6 @@ All website projects
 
 - goto <a href="http://trpl-a.github.io/Web_virtual_card" target="blank">my_porfolio</a>
 - goto <a href="https://trpl-a.github.io/Web_dork/">DORK</a>
-- goto <a href="https://trpl-a.github.io/Web_login_using_json/">login_page</a>
-- goto <a href="https://trpl-a.github.io/Web_generic_simple/">simple_multipage_website</a>
-- goto <a href="https://trpl-a.github.io/Web_generic_bootstrap_sass/">simple_multipage_website_bootstrap_sass</a>
 - goto <a href="https://trpl-a.github.io/Web_using_apis/">collection of free web APIs</a>
 <!---
 trpl-A/trpl-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
